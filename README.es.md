@@ -118,7 +118,7 @@ No hay ventana de ajustes y no se guarda nada. Cada inicio empieza así:
 
 ## Actualizaciones
 
-KTimer **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; al pulsar **Sí** se abre la página de descarga y el programa se cierra. Las nuevas versiones se publican manualmente tras una verificación interna y se anuncian en la [página de KTimer](https://v2.kilho.net/ktimer). Consulte el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
+KTimer **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; al pulsar **Sí** se abre la página de descarga y el programa se cierra. Las nuevas versiones se publican manualmente tras una verificación interna y se anuncian en la [página de KTimer](https://kilho.net/ktimer). Consulte el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
 
 **Historial de versiones**
 
@@ -135,7 +135,7 @@ KTimer es **freeware**. Puede usarlo gratis y sin restricciones en cualquier lug
 
 ## Enlaces
 
-- Sitio web: <https://v2.kilho.net/ktimer>
+- Sitio web: <https://kilho.net/ktimer>
 - Foro: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

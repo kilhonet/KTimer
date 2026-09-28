@@ -118,7 +118,7 @@ There is no settings window and nothing is saved. Every launch starts like this:
 
 ## Updates
 
-KTimer does **not** update itself. At startup it checks for a new version and shows a notice; clicking **Yes** opens the download page and closes the program. New versions are released manually after internal verification and announced on the [KTimer page](https://v2.kilho.net/ktimer). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
+KTimer does **not** update itself. At startup it checks for a new version and shows a notice; clicking **Yes** opens the download page and closes the program. New versions are released manually after internal verification and announced on the [KTimer page](https://kilho.net/ktimer). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
 **Version history**
 
@@ -135,7 +135,7 @@ KTimer is **freeware**. Use it free of charge anywhere — at the office, at hom
 
 ## Links
 
-- Website: <https://v2.kilho.net/ktimer>
+- Website: <https://kilho.net/ktimer>
 - Forum: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 

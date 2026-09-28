@@ -116,7 +116,7 @@
 
 ## 업데이트
 
-예약종료는 자동으로 업데이트하지 **않습니다**. 실행할 때 새 버전이 있는지 확인해 안내 창을 띄우고, **[예]** 를 누르면 다운로드 페이지가 열리고 프로그램이 닫힙니다. 새 버전은 내부 검증을 거쳐 수동으로 배포되며 [예약종료 페이지](https://v2.kilho.net/ktimer)에 공지됩니다. [업데이트 정책 안내](https://kilho.net/archives/notice/2940)를 참고하세요.
+예약종료는 자동으로 업데이트하지 **않습니다**. 실행할 때 새 버전이 있는지 확인해 안내 창을 띄우고, **[예]** 를 누르면 다운로드 페이지가 열리고 프로그램이 닫힙니다. 새 버전은 내부 검증을 거쳐 수동으로 배포되며 [예약종료 페이지](https://kilho.net/ktimer)에 공지됩니다. [업데이트 정책 안내](https://kilho.net/archives/notice/2940)를 참고하세요.
 
 **버전 이력**
 
@@ -133,7 +133,7 @@
 
 ## 링크
 
-- 웹사이트: <https://v2.kilho.net/ktimer>
+- 웹사이트: <https://kilho.net/ktimer>
 - 포럼: <https://groups.google.com/g/kilhonet>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
