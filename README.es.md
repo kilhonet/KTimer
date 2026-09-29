@@ -42,7 +42,7 @@ Con el instalador, KTimer se abre en cuanto termina la instalación y se añade 
 
 ## Uso
 
-### Flujo básico
+### Primeros pasos
 
 1. Inicie KTimer. La ventana se abre en el centro de la pantalla con el reloj preparado en **00 : 05 : 00** (5 minutos).
 2. Ajuste el tiempo con los botones. Por ejemplo: `30` → 30 minutos; `30` y luego `+5` seis veces → 1 hora.

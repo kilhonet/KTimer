@@ -42,7 +42,7 @@ With the installer, KTimer opens as soon as installation finishes and is added t
 
 ## Usage
 
-### Basic flow
+### Getting started
 
 1. Start KTimer. The window opens in the middle of the screen with the clock ready at **00 : 05 : 00** (5 minutes).
 2. Set the time with the time buttons. For example: `30` → 30 minutes; `30` then `+5` six times → 1 hour.
