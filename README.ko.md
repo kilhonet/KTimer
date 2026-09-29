@@ -134,7 +134,7 @@
 ## 링크
 
 - 웹사이트: <https://kilho.net/ktimer>
-- 포럼: <https://groups.google.com/g/kilhonet>
+- 포럼: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

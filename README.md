@@ -136,7 +136,7 @@ KTimer is **freeware**. Use it free of charge anywhere — at the office, at hom
 ## Links
 
 - Website: <https://kilho.net/ktimer>
-- Forum: <https://groups.google.com/g/kilhonet>
+- Forum: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET
