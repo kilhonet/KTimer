@@ -120,15 +120,6 @@ There is no settings window and nothing is saved. Every launch starts like this:
 
 KTimer does **not** update itself. At startup it checks for a new version and shows a notice; clicking **Yes** opens the download page and closes the program. New versions are released manually after internal verification and announced on the [KTimer page](https://kilho.net/ktimer). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
-**Version history**
-
-| Version | Date | Changes |
-|---|---|---|
-| 2.0.0 | 2026-09-23 | Full redesign: flip clock, set the time directly with buttons, pick shutdown or sleep with an icon, colors and number font tuned for the dark interface, lighter and smoother overall |
-| 1.3.2 | 2026-08-21 | Menus and behavior matched to hibernation support, improved sleep switching, improved auto-start setup and update checking |
-| 1.3.1 | 2024-11-16 | Added Italian · French · Russian · Chinese |
-| 1.3.0 | 2024-11-03 | Hibernation support, prevents running twice, improved multilingual support and update notices |
-
 ## License
 
 KTimer is **freeware**. Use it free of charge anywhere — at the office, at home, in government offices, at school — and redistribute it freely.

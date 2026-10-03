@@ -122,15 +122,6 @@ Não há janela de configurações e nada é salvo. Cada inicialização começa
 
 O KTimer **não** se atualiza sozinho. Ao iniciar, verifica se há uma versão nova e mostra um aviso; ao pressionar **Sim**, a página de download é aberta e o programa é encerrado. As novas versões são publicadas manualmente após verificação interna e anunciadas na [página do KTimer](https://kilho.net/ktimer). Veja o [aviso sobre a política de atualização](https://en.kilho.net/archives/notice/2940).
 
-**Histórico de versões**
-
-| Versão | Data | Mudanças |
-|---|---|---|
-| 2.0.0 | 2026-09-23 | Reformulação completa: design de relógio de cartões, tempo ajustado direto pelos botões, desligar ou suspender escolhido por ícone, cores e fonte numérica pensadas para a interface escura, mais leve e fluido |
-| 1.3.2 | 2026-08-21 | Menus e comportamento conforme o suporte a hibernação, melhor troca para suspensão, melhorias na inicialização automática e na verificação de atualizações |
-| 1.3.1 | 2024-11-16 | Adicionados italiano · francês · russo · chinês |
-| 1.3.0 | 2024-11-03 | Suporte a hibernação, impede execução duplicada, melhorias multilíngues e nos avisos de atualização |
-
 ## Licença
 
 O KTimer é **freeware**. Use gratuitamente e sem restrições em qualquer lugar — empresa, casa, órgãos públicos, escola — e redistribua livremente.

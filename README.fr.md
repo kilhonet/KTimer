@@ -120,15 +120,6 @@ Pas de fenêtre de réglages et rien n'est enregistré. Chaque lancement commenc
 
 KTimer ne se met **pas** à jour tout seul. Au lancement, il vérifie si une nouvelle version existe et affiche un avis ; en appuyant sur **Oui**, la page de téléchargement s'ouvre et le programme se ferme. Les nouvelles versions sont publiées manuellement après vérification interne et annoncées sur la [page KTimer](https://kilho.net/ktimer). Consultez l'[avis sur la politique de mise à jour](https://en.kilho.net/archives/notice/2940).
 
-**Historique des versions**
-
-| Version | Date | Modifications |
-|---|---|---|
-| 2.0.0 | 2026-09-23 | Refonte complète : horloge à volets, durée réglée directement par boutons, arrêt ou veille choisis par une icône, couleurs et police de chiffres adaptées à l'interface sombre, plus léger et plus fluide |
-| 1.3.2 | 2026-08-21 | Menus et comportement adaptés à la prise en charge de l'hibernation, meilleur passage en veille, améliorations du démarrage automatique et de la vérification des mises à jour |
-| 1.3.1 | 2024-11-16 | Ajout de l'italien · du français · du russe · du chinois |
-| 1.3.0 | 2024-11-03 | Prise en charge de l'hibernation, empêche le double lancement, améliorations multilingues et des avis de mise à jour |
-
 ## Licence
 
 KTimer est un **freeware**. Utilisez‑le gratuitement et sans restriction partout — au bureau, à la maison, dans les administrations, à l'école — et redistribuez‑le librement.
